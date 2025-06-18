@@ -9,3 +9,4 @@ int main()
     int n = S;
 }
 
+Computer*arr = new computer [n]{
